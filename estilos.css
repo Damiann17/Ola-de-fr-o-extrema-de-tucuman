@@ -1,0 +1,29 @@
+body {
+    font-family: 'Lato', sans-serif;
+    margin: 20px;
+    line-height: 1.6;
+}
+
+header h1, h1 {
+    font-size: 24px;
+    color: #003366;
+}
+
+main p, p {
+    font-size: 16px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
